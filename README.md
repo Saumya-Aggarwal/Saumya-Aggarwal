@@ -1,3 +1,10 @@
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://github.com/Saumya-Aggarwal/Saumya-Aggarwal/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png"  />
+</div>
+
+
 <h2 id="hi-there-" align= "center">Hi there 👋, I am Saumya Aggarwal</h2>
 <h4 id="hi-there-" align= "center">👨‍💻 Code enthusiast | 🌱 2nd-year CS student | 🚀 Web dev explorer | Anime + music lover 🎧  <br>Building cool projects, one commit at a time!</h2>
 
