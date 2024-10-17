@@ -1,5 +1,5 @@
 <h2 id="hi-there-" align= "center">Hi there 👋, I am Saumya Aggarwal</h2>
-<h4 id="hi-there-" align= "center">Hi there 👋, I am Saumya Aggarwal</h2>
+<h4 id="hi-there-" align= "center">👨‍💻 Code enthusiast | 🌱 2nd-year CS student | 🚀 Web dev explorer | Anime + music lover 🎧 | Building cool projects, one commit at a time!</h2>
 
  <p align="center">
   <img src="https://camo.githubusercontent.com/46f764962d012a38e344425d8ac7b2cfb94d7cf21f4fd3a396f70d7bd2ca8f00/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966" alt="coding image" width=400px />
